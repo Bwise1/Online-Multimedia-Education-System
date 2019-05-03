@@ -1,5 +1,5 @@
 #Ignore all IDE setting files in .idea/
 .idea/
 
-#Ignore all gragle setting files in .gradle/
+#Ignore all gradle setting files in .gradle/
 .gradle/
